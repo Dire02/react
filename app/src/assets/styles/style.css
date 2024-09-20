@@ -1,0 +1,9 @@
+@import url("https://fonts.google.com/share?selection.family=Vazirmatn:wght@100..900");
+
+*{
+	font-family: "Vazir" , sans-serif;
+}
+
+.pointer{
+	cursor: pointer;
+}

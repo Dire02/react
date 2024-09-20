@@ -1,0 +1,17 @@
+.form-container{
+	max-width: 430px;
+}
+
+.form-container h2{
+	font-size: 32px;
+}
+
+.reset-pass-text span{
+	font-size: 14px;
+	font-weight: 100;
+	/*text-decoration: underline;*/
+}
+
+.form-text-link {
+	font-size: 14px;
+}
